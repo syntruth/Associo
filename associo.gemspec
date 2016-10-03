@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.summary     = %(MongoMapper and GridFS joined in file upload love.)
   s.description = %(Implements an easy to use GridFS API for MongoMapper.)
   s.email       = 'syntruth@gmail.com'
-  s.homepage    = ''
+  s.homepage    = 'https://github.com/syntruth/Associo'
   s.authors     = ['John Nunemaker', 'Randy Carnahan']
   s.version     = Associo::VERSION
 
